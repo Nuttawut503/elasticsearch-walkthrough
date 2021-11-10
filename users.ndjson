@@ -1,0 +1,4 @@
+{"index":{"_index":"user","_id":1}}
+{"firstname":"Eden", "lastname":"Koch", "age":20}
+{"index":{"_index":"user","_id":2}}
+{"firstname":"Kaylin", "lastname":"Oliver", "age":24}
